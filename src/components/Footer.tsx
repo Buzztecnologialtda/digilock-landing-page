@@ -12,10 +12,10 @@ export default function Footer() {
           <div>
             <p className="mb-1">
               {" "}
-              <a href="tel:+55-11-97450-6920">
+              <a href="https://wa.me/5511982655301" target={"_blank"}>
                 <FontAwesomeIcon icon={faPhone} className="mr-2" />
               </a>
-              Whatsapp: +55 (11) 97450-6920
+              Whatsapp: +55 (11) 98265-5301
             </p>
             <p className="mb-0">
               <a href="comercial@digilock.com.br">
