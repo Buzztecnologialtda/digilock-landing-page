@@ -21,7 +21,7 @@ export default function Footer() {
               <a href="digilock2023@gmail.com">
                 <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
               </a>
-              Email: digilock2023@gmail.com
+              Email: comercial@digilock
             </p>
           </div>
         </div>
