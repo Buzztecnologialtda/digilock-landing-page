@@ -26,9 +26,13 @@ export default function Plans() {
                 individual que serão repassados ao nosso cliente.
               </p>
             </div>
-            <button className="bg-[#1E90FF] w-[200px] text-white rounded-md font-medium my-6 mx-auto px-6 py-3 hover:bg-[#62B1FF] ease-in duration-200">
+            <a
+              href="https://wa.me/5511982655301"
+              target={"_blank"}
+              className="bg-[#1E90FF] w-[200px] text-white rounded-md font-medium my-6 mx-auto px-7 py-3 hover:bg-[#62B1FF] ease-in duration-200"
+            >
               Entre em contato
-            </button>
+            </a>
           </div>
           <div className="w-full shadow-xl bg-gray-100 flex flex-col p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300">
             <Image
@@ -56,9 +60,13 @@ export default function Plans() {
                 Paulo.
               </p>
             </div>
-            <button className="bg-black text-white w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 hover:bg-gray-800 ease-in duration-200">
+            <a
+              href="https://wa.me/5511982655301"
+              target={"_blank"}
+              className="bg-black text-white w-[200px] rounded-md font-medium my-6 mx-auto px-7 py-3 hover:bg-gray-800 ease-in duration-200"
+            >
               Entre em contato
-            </button>
+            </a>
           </div>
         </div>
       </div>

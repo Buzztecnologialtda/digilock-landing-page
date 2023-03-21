@@ -20,9 +20,13 @@ export default function Hero() {
           Monitor your data analytics to increase renevue for BTB, BTC & SASS
           platforms.
         </p> */}
-        <button className="bg-[#1E90FF] w-[200px] mx-auto rounded-md py-3 my-6 font-medium hover:bg-[#62B1FF] text-white ease-in duration-200">
+        <a
+          href="https://wa.me/5511982655301"
+          target={"_blank"}
+          className="bg-[#1E90FF] w-[200px] mx-auto rounded-md py-3 px-7 my-6 font-medium hover:bg-[#62B1FF] text-white ease-in duration-200"
+        >
           Entre em contato
-        </button>
+        </a>
       </div>
     </div>
   );
