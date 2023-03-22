@@ -28,7 +28,7 @@ export default function About() {
             <br />
             Em nossa carteira de clientes, já contamos com empresas de vários
             segmentos, incluindo áreas da construção civil, escritórios de
-            advocavia indústrias, comércios, entidades sem fins lucrativos e
+            advocavia, indústrias, comércios, entidades sem fins lucrativos e
             empresas prestadoras de serviços em geral. Temos orgulho de poder
             ajudar nossos clientes a gerenciar seus documentos de forma prática
             e eficiente, reduzindo seus custos e aumentando sua segurança.
