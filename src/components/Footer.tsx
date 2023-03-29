@@ -18,10 +18,10 @@ export default function Footer() {
               Whatsapp: +55 (11) 98265-5301
             </p>
             <p className="mb-0">
-              <a href="comercial@digilock.com.br">
+              <a href="comercial@digilock2023.com.br">
                 <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
               </a>
-              Email: comercial@digilock.com.br
+              Email: comercial@digilock2023.com.br
             </p>
           </div>
         </div>
